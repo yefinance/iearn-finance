@@ -104,7 +104,7 @@ class Store {
       aprs: [{
           token: 'DAI',
           address: '0x6b175474e89094c44da98b954eedeac495271d0f',
-          earnAddress: '0x16de59092dAE5CcF4A1E6439D611fd0653f0Bd01',
+          earnAddress: '0xe7dcfd695da287fa957723cd923c58314d93a2e3',
           lastMeasurement: 9465912,
           measurement: 1000037230456849197,
           mod: 1,
